@@ -1,7 +1,7 @@
 {
-  "name": "@icetee/ftp",
+  "name": "ftp",
   "version": "1.0.0",
-  "author": "Tamás András Horváth <htomy92@gmail.com>",
+  "author": "Ra <kanunik71@gmail.com>",
   "contributors": [
     "Brian White <mscdex@mscdex.net>"
   ],
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/icetee/node-ftp.git"
+    "url": "http://github.com/Kanunik71/node-ftp.git"
   },
   "devDependencies": {
     "babel-register": "^6.26.0",
